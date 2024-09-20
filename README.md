@@ -8,18 +8,12 @@ Simulador de una pokedex utilizando react, y pokeapi
 
 ## Screenshots
 
-<p align="Center>
 
 ![App Screenshot](public/Img/Screenshots/Screen%201.png)
-<hr>
-
 ![App Screenshot](public/Img/Screenshots/Screen%202.png)
-
-<hr>
-
 ![App Screenshot](public/Img/Screenshots/Screen%203.png)
 
-</p>
+
 
 <hr>
 
@@ -29,7 +23,7 @@ Simulador de una pokedex utilizando react, y pokeapi
 <hr>
 
 ## 🛠 Skills
-<p>
+<p align="center">
     <img src="./public/Img/skills.png">
 </p>
 
