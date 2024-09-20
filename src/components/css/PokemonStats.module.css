@@ -1,0 +1,24 @@
+.contenedorStat{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: flex-end;
+    gap: 15px;
+    padding-right: 10px;
+    color: cadetblue;
+}
+
+.contenedorStat h1{
+    font-size: 15px;
+    text-transform: capitalize;
+    width: 100px;
+}
+.contenedorStat h2{
+    font-size: 15px;
+    width: 50px;
+}
+.contenedorBarra{
+    width: 100%;
+}

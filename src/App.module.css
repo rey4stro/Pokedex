@@ -1,0 +1,90 @@
+
+.contenedor{
+    margin: auto;
+    max-width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.barraSuperior{
+    width: 100%;
+    height: 50px;
+    padding: 5px 0px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.barraSuperior form{
+    display: inline-flex;
+}
+
+.formBusqueda{
+    border: solid 2px black;
+    height: 50px;
+    border-radius: 40px;
+    align-items: center;
+    background-color: white;
+    padding: 0 5px 0 0;
+    width: 100%;
+}
+.formBusqueda button{
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: red ;
+    align-items: center;
+}
+.formBusqueda input{
+    height: 40px;
+    border: none;
+    border-radius: 40px 0 0 40px;
+    font-size: 20px;
+    color: red;
+    text-align: center;
+    width: 100%;
+}
+.botonBack{
+    background-color: #1dab7f;
+    color: white;
+    font-size: 40px;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    padding-left: 0;
+    padding-top: 3px;
+}
+.botonBack:hover,.botonNext:hover{
+    scale: 1.2;
+    cursor: pointer;
+}
+.botonNext{
+    background-color: #ffab01;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+}
+
+.contenedorPokemon{
+    background-color: white;
+    width: 100%;
+}
+
+.pesoYalto{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10px;
+}

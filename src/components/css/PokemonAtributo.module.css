@@ -1,0 +1,42 @@
+.hp{
+    height: 15px;
+    border: solid black 1px;
+    border-radius: 50px;
+    margin: 5px 0;
+    background-color: yellowgreen;
+}
+.attack{
+    height: 15px;
+    border: solid black 1px;
+    border-radius: 50px;
+    margin: 5px 0;
+    background-color: red;
+}
+.defense{
+    height: 15px;
+    border: solid black 1px;
+    border-radius: 50px;
+    margin: 5px 0;
+    background-color: rgb(8, 153, 110);
+}
+.speed{
+    height: 15px;
+    border: solid black 1px;
+    border-radius: 50px;
+    margin: 5px 0;
+    background-color: rgb(141, 6, 118);
+}
+.special-attack{
+    height: 15px;
+    border: solid black 1px;
+    border-radius: 50px;
+    margin: 5px 0;
+    background-color: rgb(62, 206, 26);
+}
+.special-defense{
+    height: 15px;
+    border: solid black 1px;
+    border-radius: 50px;
+    margin: 5px 0;
+    background-color: rgb(5, 175, 187);
+}

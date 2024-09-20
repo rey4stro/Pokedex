@@ -1,0 +1,211 @@
+.bug {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #595761;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    background-color: #92bd2d;
+    border: solid 1px black;
+  }
+  .dark {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #595761;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+  .dragon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0c6ac8;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+  .electric {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f2d94e;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+  .fairy {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ef90e6;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+  .fighting {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d3425f;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+  .flying {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #a1bbec;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+  .ghost {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #5f6dbc;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+  .ground {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #da7c4d;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+  .ice {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #76d1c1;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+  .normal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #a0a29f;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+  .poison {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #b763cf;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+  .psychic {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fa8582;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+  .rock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #c9bc8a;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+  .steel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #5795a3;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+  .grass {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #60bd58;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+  .water {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #539ddf;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+  .fire {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fba64c;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 0px 20px;
+    border: solid 1px black;
+  }
+.missingno{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+    border-radius: 40px;
+    text-transform: uppercase;
+    font-size: 10px;
+    color: white;
+    padding: 0px 20px;
+    border: solid 1px black;
+}

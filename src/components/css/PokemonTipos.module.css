@@ -1,0 +1,10 @@
+.unTipo{
+    display: flex;
+    justify-content: center;
+}
+.dosTipos{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    justify-content: space-around;
+}

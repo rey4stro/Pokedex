@@ -1,0 +1,18 @@
+.nombrePokemon{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align:center;
+    color: cadetblue;
+    text-transform: uppercase;
+}
+.nombrePokemon h1{
+    font-size: 35px;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+}
